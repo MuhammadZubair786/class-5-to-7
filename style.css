@@ -1,0 +1,37 @@
+/* //download */
+/* heading  */
+/* @font-face {
+    font-family: "Dancing_Script" ; 
+    src: url(./assets/fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf);
+}
+
+/* para */
+/* @font-face {
+    font-family: "Acme";
+    src: url(./assets/fonts/Acme/Acme-Regular.ttf);
+} */ 
+
+/* @font-face {
+    font-family: "kumar";
+    src: url("./assets/fonts/Kumar_One_Outline/KumarOneOutline-Regular.ttf");
+} */
+
+h1{
+    font-family: "Kumar One Outline";
+    /* font-family: "kumar"; */
+    /* font-family:"Dancing_Script" ; */
+    /* font-family: sans-serif */
+    
+    /* color: red; */
+    /* color: rgb(8, 204, 129); */
+    /* color: #ff3400; */
+    /* color:  hsl(190, 50%, 20%); */ 
+    /* background-color: rgba(red, green, blue, alpha); */
+    /* background-color:hsla(hue, saturation, lightness, alpha) */
+}
+h3{
+    font-family: "Rubik Beastly";
+}
+h4{
+    font-family: "Pacifico";
+}
