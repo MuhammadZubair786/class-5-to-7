@@ -18,6 +18,7 @@
 
 h1{
     font-family: "Kumar One Outline";
+    text-shadow: -100px 100px 10px red ;
     /* font-family: "kumar"; */
     /* font-family:"Dancing_Script" ; */
     /* font-family: sans-serif */
@@ -33,5 +34,59 @@ h3{
     font-family: "Rubik Beastly";
 }
 h4{
-    font-family: "Pacifico";
+    /* font-family: "Pacifico"; */
+    font-style: italic;
+    text-transform: capitalize;
+    text-decoration: line-through;
+    word-spacing: 20px;
+    text-shadow: -100px 100px 10px red ;
+
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 400px;
+    height: 100px;
+    vertical-align: middle;
+}
+h5{
+    text-decoration: line-through;
+    text-align: justify;
+    color: yellow;
+}
+h2::first-letter{
+    font-size: 100px;
+    color: pink;
+
+}
+h2::first-line{
+    background-color: aqua;
+}
+/* h2{
+    display: inline;
+} */
+
+/* img{
+    vertical-align: middle;
+} */
+a{
+    color: rgb(255, 0, 208);
+    font-size: 40px;
+}
+a:hover{
+    color: rgb(58, 226, 43);
+}
+input{
+    background-color: yellow;
+}
+input:focus{
+    background-color: aqua;
+}
+input:active{
+    background-color: rgb(142, 127, 255);
+}
+td{
+    border: 1px solid yellow;
+    empty-cells: hide;
 }
