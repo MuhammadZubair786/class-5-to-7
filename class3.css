@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div{
+    background-color: red;
+    margin: auto;
+   
+    /* margin: 20px 10px; */
+    /* margin: 20px 0px 0px 0px; */
+    /* margin-top: 30px !important ; */
+    /* margin-right: 40px; */
+    /* color: rgb(252, 251, 250); */
+    /* margin: 100px; */
+    /* margin: 30px 100px 100px 100px; */
+
+    /* padding: 100px 20px; */
+    /* padding-right: 100px; */
+    /* padding: 100px !important;
+
+    padding-top: 0px !important; */
+/* border: 10px dashed  black; */
+    /* border-width: 9px 0px;
+    border-color: rgb(19, 230, 11);
+    border-style: solid; */
+/* 
+    border-top-width: 10px ;
+    border-top-color: green;
+    border-top-style: solid;
+
+    border-left-width: 10px ;
+    border-left-color: green;
+    border-left-style: solid; */
+    /* border-top: 10px solid yellow; */
+    /* border-color: pink; */
+    /* border-color: rgb(19, 230, 11);
+    border-style: solid; */
+
+    /* box-shadow: -30px -10px 10px pink; */
+    width: 400px;
+
+
+
+    /* border: ; */
+}
+/* h1{
+    text-align: center;
+    margin: 10px auto;
+    background-color: red;
+    width: 600px;
+} */
+b{
+    text-align: center;
+    background-color: red;
+    display: block;
+    margin: auto;
+    width: 500px;
+    color: red;
+}
+h1{
+    display: inline;
+}
