@@ -1,0 +1,51 @@
+/* h1[class]{
+    color: red;
+} */
+/* h1[id]{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1[class]{
+    color: red;
+    font-size: 100px;
+}
+.h1{
+    color: pink;
+    background-color: aqua;
+} */
+
+/* .h1{
+    background-color: blue;
+}
+
+h1[class~="h3"]{
+    font-size: 100px;
+} */
+
+img{
+    width: 200px;
+    height: 100px;
+}
+/* img[alt="img2"]{
+    width: 300px;
+    height: 200px;
+} */
+
+/* ^=,*=,$= */
+
+/* img[alt$="fgh"]{
+    width: 300px;
+    height: 200px;
+} */
+
+div{
+    /* width: 800px;
+    height: 220px; */
+    background-color: rgb(251, 165, 165);
+    /* width: 100%; */
+    min-height: 10px;
+    max-height: 220px;
+    min-width: 200px;
+    max-width: 600px;
+    overflow: hidden;
+}
